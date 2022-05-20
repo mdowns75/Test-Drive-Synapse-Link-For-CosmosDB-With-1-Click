@@ -1,0 +1,7 @@
+{
+	"name": "CosmosDb604",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/f45a1c93-b055-4086-b0b3-5ccc087c8ecf/resourceGroups/synlinkcosmosdemo/providers/Microsoft.DocumentDB/databaseAccounts/cosmoslinkdemomd",
+		"groupId": "Analytical"
+	}
+}
